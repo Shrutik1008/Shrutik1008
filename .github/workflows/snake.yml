@@ -2,22 +2,26 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
-  workflow_dispatch:      # Allows manual trigger
+    - cron: "0 0 * * *"  # every day at midnight
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: generate-snake-game-from-github-contribution-grid
+      - name: Checkout the repo
+        uses: actions/checkout@v4
+
+      - name: Generate Snake SVG
         uses: Platane/snk@v3.3.0
         with:
           github_user_name: Shrutik1008
           outputs: |
-            ./output/snake.svg
+            output/snake.svg
 
-      - name: Commit & Push the snake.svg file
+      - name: Commit and Push Snake SVG
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate contribution snake animation"
+          message: "Generate snake.svg animation"
           add: "output/snake.svg"
