@@ -50,7 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Shrutik1008/Shrutik1008/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://raw.githubusercontent.com/Shrutik1008/Shrutik1008/output/github-contribution-grid-snake.svg)
 
 ###
