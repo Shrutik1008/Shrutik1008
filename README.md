@@ -36,9 +36,14 @@
 
 ### 📚 Projects
 
-- ✨ [**GearHead**](https://github.com/Shrutik1008/gearhead) – Car showcasing platform built with React and Unsplash API.
+- ✨ [**WebScanPro: Web Application Security Testing Tool**](https://github.com/Shrutik1008/web-scan-pro.git)
+  
+  •This tool is designed to simulate different attack vectors, scan a target web application, and finally generate a security report with detected vulnerabilities and mitigation steps
+
+  •The platform used include intentionally vulnerable applications such as DVWA
 - ⚖️ [**Auction Dashboard**](https://github.com/Shrutik1008/auction-dashboard) – Real-time auction monitoring using custom dashboard views.
-- 📊 **Hospital Performance & Patient Trend Analysis – Power BI**  
+- 📊 [**Hospital Performance & Patient Trend Analysis – Power BI** ](https://github.com/Shrutik1008/Hospital-Performance-and-Patient-Analysis-Using-KPI-in-Power-BI)
+  
   • Industrial Project with IQVIA Pvt. Ltd. (Bangalore).  
   • Designed a Power BI dashboard for real-time hospital performance KPIs.
 - ♻️ [**Waste Classification using CNN**](https://github.com/Shrutik1008/waste-classification-streamlit)  
