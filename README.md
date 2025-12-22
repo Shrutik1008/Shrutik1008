@@ -36,20 +36,27 @@
 
 ### 📚 Projects
 
-- ✨ [**WebScanPro: Web Application Security Testing Tool**](https://github.com/Shrutik1008/web-scan-pro.git)
-  
-  •This tool is designed to simulate different attack vectors, scan a target web application, and finally generate a security report with detected vulnerabilities and mitigation steps
+- 🌐 [**Personal Portfolio Website**](https://shrutik1008.github.io/Portfolio)  
+  • Responsive personal portfolio built using HTML, CSS, and JavaScript.  
+  • Showcases skills, projects, and contact details with a clean, modern UI.  
+  • Optimized for recruiters and professional online presence.
 
-  •The platform used include intentionally vulnerable applications such as DVWA
-- ⚖️ [**Auction Dashboard**](https://github.com/Shrutik1008/auction-dashboard) – Real-time auction monitoring using custom dashboard views.
-- 📊 [**Hospital Performance & Patient Trend Analysis – Power BI** ](https://github.com/Shrutik1008/Hospital-Performance-and-Patient-Analysis-Using-KPI-in-Power-BI)
-  
-  • Industrial Project with IQVIA Pvt. Ltd. (Bangalore).  
+- ✨ [**WebScanPro: Web Application Security Testing Tool**](https://github.com/Shrutik1008/web-scan-pro.git)  
+  • Designed to simulate multiple attack vectors on web applications.  
+  • Scans targets and generates security reports with detected vulnerabilities and mitigation steps.  
+  • Tested using intentionally vulnerable platforms like DVWA.
+
+- ⚖️ [**Auction Dashboard**](https://github.com/Shrutik1008/auction-dashboard)  
+  • Real-time auction monitoring using custom interactive dashboard views.
+
+- 📊 [**Hospital Performance & Patient Trend Analysis – Power BI**](https://github.com/Shrutik1008/Hospital-Performance-and-Patient-Analysis-Using-KPI-in-Power-BI)  
+  • Industrial project with IQVIA Pvt. Ltd. (Bangalore).  
   • Designed a Power BI dashboard for real-time hospital performance KPIs.
-- ♻️ [**Waste Classification using CNN**](https://github.com/Shrutik1008/waste-classification-streamlit)  
-  • Built an ML model using CNN, deployed via Streamlit for real-time waste image classification.
 
----
+- ♻️ [**Waste Classification using CNN**](https://github.com/Shrutik1008/waste-classification-streamlit)  
+  • Built a CNN-based machine learning model for waste image classification.  
+  • Deployed using Streamlit for real-time predictions.
+
 
 ### ✉️ Connect with Me
 
