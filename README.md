@@ -36,27 +36,33 @@
 
 ### 📚 Projects
 
-- 🌐 [**Personal Portfolio Website**](https://shrutik1008.github.io/Portfolio)  
+- 🌐 [**Personal Portfolio Website**](https://your-portfolio-live-link.com)  
   • Responsive personal portfolio built using HTML, CSS, and JavaScript.  
   • Showcases skills, projects, and contact details with a clean, modern UI.  
-  • Optimized for recruiters and professional online presence.
+  • Optimized for recruiters and professional online presence.  
+  **Tech Stack:** 🟦 HTML | 🟨 JavaScript | 🎨 CSS
 
 - ✨ [**WebScanPro: Web Application Security Testing Tool**](https://github.com/Shrutik1008/web-scan-pro.git)  
   • Designed to simulate multiple attack vectors on web applications.  
   • Scans targets and generates security reports with detected vulnerabilities and mitigation steps.  
-  • Tested using intentionally vulnerable platforms like DVWA.
+  • Tested using intentionally vulnerable platforms like DVWA.  
+  **Tech Stack:** 🟩 Python | 🟦 HTML | 🎨 CSS | 🔐 OWASP | 🤖 Selenium
 
 - ⚖️ [**Auction Dashboard**](https://github.com/Shrutik1008/auction-dashboard)  
-  • Real-time auction monitoring using custom interactive dashboard views.
+  • Real-time auction monitoring platform with interactive dashboard views.  
+  • Backend services for managing auctions, bids, and users.  
+  • Persistent data storage for auctions and bidding history.  
+  **Tech Stack:** 🟨 JavaScript | 🟦 HTML | 🎨 CSS | 🟩 Node.js | 🗄️ MongoDB
 
 - 📊 [**Hospital Performance & Patient Trend Analysis – Power BI**](https://github.com/Shrutik1008/Hospital-Performance-and-Patient-Analysis-Using-KPI-in-Power-BI)  
   • Industrial project with IQVIA Pvt. Ltd. (Bangalore).  
-  • Designed a Power BI dashboard for real-time hospital performance KPIs.
+  • Designed a Power BI dashboard for real-time hospital performance KPIs.  
+  **Tech Stack:** 📊 Power BI | 🧮 DAX | 🗄️ SQL
 
 - ♻️ [**Waste Classification using CNN**](https://github.com/Shrutik1008/waste-classification-streamlit)  
   • Built a CNN-based machine learning model for waste image classification.  
-  • Deployed using Streamlit for real-time predictions.
-
+  • Deployed using Streamlit for real-time predictions.  
+  **Tech Stack:** 🟩 Python | 🧠 TensorFlow | 🧪 Keras | 📈 CNN | 🚀 Streamlit
 
 ### ✉️ Connect with Me
 
