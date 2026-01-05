@@ -36,7 +36,7 @@
 
 ### 📚 Projects
 
-- 🌐 [**Personal Portfolio Website**](https://your-portfolio-live-link.com)  
+- 🌐 [**Personal Portfolio Website**](https://shrutik1008.github.io/Portfolio)  
   • Responsive personal portfolio built using HTML, CSS, and JavaScript.  
   • Showcases skills, projects, and contact details with a clean, modern UI.  
   • Optimized for recruiters and professional online presence.  
