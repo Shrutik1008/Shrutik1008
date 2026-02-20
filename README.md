@@ -8,13 +8,27 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shrutik1008&show_icons=true&count_private=true&theme=gradient&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shrutik1008&layout=compact&langs_count=6&theme=gradient&hide_border=false" height="150" alt="Top Languages" />
+
+<table>
+<tr>
+<td>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shrutik1008&theme=swift&hide_border=false" height="170"/>
+</td>
+
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shrutik1008&layout=compact&langs_count=6&theme=gradient&hide_border=false" height="170" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<br/>
+
 </div>
 
 ---
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coder-gif" />
+
 
 ### ✨ Tech Stack
 
