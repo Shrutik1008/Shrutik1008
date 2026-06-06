@@ -2,7 +2,7 @@
 
 <p>
 🎓 Final Year Student at <strong>Walchand Institute of Technology</strong>  
-💡 Passionate about AI/ML, Web Development, and solving real-world problems with data.
+💡 Passionate about AI/ ML, Web Development, and solving real-world problems with data.
 </p>
 
 ---
